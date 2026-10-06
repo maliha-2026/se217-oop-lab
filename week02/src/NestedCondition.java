@@ -1,4 +1,4 @@
-public class Nested {
+public class NestedCondition {
 
     public static void main(String[] args) {
         int x =11;
